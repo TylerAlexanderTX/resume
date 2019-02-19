@@ -12,8 +12,8 @@ export class AppComponent {
   phone_number = '(832) 381-7508';
   email = 'tylerjon93@gmail.com';
 
-  prof_skills = [ 'HTML5',"ASP.NET", 'C#', 'SQL', 'Javascript' ];
-  intermediate_skills = [ "Angular", 'Java', 'Visual Studio Team Services', 'GIT' ];
+  prof_skills = [ 'HTML5', 'ASP.NET', 'C#', 'SQL', 'Javascript' ];
+  intermediate_skills = [ 'Angular', 'Java', 'Visual Studio Team Services', 'GIT' ];
   effective_skills  = [ 'SpringBoot-Java', 'PHP', 'React'];
-  
+
 }
