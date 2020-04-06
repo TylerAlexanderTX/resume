@@ -7,13 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   name = 'Tyler Alexander';
-  street_address = '5400 N Lamar Blvd';
-  city_address = 'Austin, TX 78751';
+  street_address = '';
+  city_address = 'Lives in Austin, TX';
   phone_number = '(832) 381-7508';
   email = 'tylerjon93@gmail.com';
 
-  prof_skills = [ 'HTML5', 'ASP.NET', 'C#', 'SQL', 'Javascript' ];
-  intermediate_skills = [ 'Angular', 'Java', 'Visual Studio Team Services', 'GIT' ];
-  effective_skills  = [ 'SpringBoot-Java', 'PHP', 'React'];
+  prof_skills = ['ASP.NET', 'C#', 'Python', 'SQL', 'Javascript' ];
+  intermediate_skills = [ 'Angular', 'Java', 'Azure DevOps', 'Git', 'HTML', 'Flask', 'NoSQL/Elasticseach' ];
+  effective_skills  = [ 'Django', 'SpringBoot-Java', 'PHP', 'Docker', 'Azure'];
 
 }
