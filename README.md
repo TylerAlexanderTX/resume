@@ -1,26 +1,22 @@
 # Resume
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2 and [Angular](https://angular.io) version 7.2.5.
+This project was (originally) generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2 and [Angular](https://angular.io) version 7.2.5. It is now on Angular 13.
+
+## Development
+
+All the meat of the code is in the `app.component.html` file. 
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Publish (for myself in the future because I will forget)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng build --prod` to build the project for publishing. Clone the `TylerAlexander.github.io` directory locally. Copy the files from the `dist/` directory into the `TylerAlexander.github.io` folder. Push the changes to a new branch to test out before merging to master.
 
 ## Further help
 
